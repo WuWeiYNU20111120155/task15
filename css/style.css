@@ -73,7 +73,7 @@ a {
     margin-bottom: 3px;
 }
 
-.nav-bar li {
+.nav-bar a {
     display: inline-block;
     text-transform: uppercase;
     font-size: 16px;
@@ -82,7 +82,7 @@ a {
     margin: 15px 0;
 }
 
-.nav-bar li:hover {
+.nav-bar a:hover {
     background-color: rgb(255, 160, 0);
 }
 
